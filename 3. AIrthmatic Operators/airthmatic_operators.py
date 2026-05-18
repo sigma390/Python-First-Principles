@@ -33,7 +33,7 @@ o = x % y
 k = (x + y) * 4
 
 
-j = int(input("Enter the number :"))
+j = int(input("Enter the number :")) # this type annotation is because the input function takes whatever u write as a String
 l = j *7;
 print("this is value Of L :", l);
 
