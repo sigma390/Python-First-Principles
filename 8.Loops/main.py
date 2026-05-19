@@ -58,4 +58,4 @@ while True:
     print(j);
     j+=1
     if j == 10:
-        break
+        break #breaks the closest Loop ton this break 
