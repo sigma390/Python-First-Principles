@@ -39,3 +39,23 @@ for i in range(len(x)):
 print("\nThis is way of enumerate : \n")
 for i, element in enumerate(x):
     print(i, element)
+
+
+
+#=====> While Loop <=========
+
+
+i = 0
+while i < 5 : 
+    print(i*2)
+    i += 1
+
+print("\nWhile Loop using True :\n")
+
+
+j = 0
+while True:
+    print(j);
+    j+=1
+    if j == 10:
+        break
