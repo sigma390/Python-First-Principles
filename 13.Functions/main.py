@@ -27,6 +27,17 @@ def tup(x , y):
 r1,r2,r3 = tup(2,6)
 
 
+
+#cool thing
+
+def f1(x):
+    def f2():
+        print(x)
+    return f2
+
+f1(907798989789686)() # () ()<=== means a call
+
+
 print(tup(2,6))
 print(sum(2,3, 9))
 print(r1,r2,r3)
