@@ -4,6 +4,17 @@
 
 res = 3 > 5
 
+
+
+# if conditon :
+#     do 
+# else 
+#     do
+
+
+
+
+
 if res : 
     print("i told u i would win")
 else   :
