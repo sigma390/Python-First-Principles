@@ -7,6 +7,7 @@ x = set()
 s1 = {4,32,4,4,4,1}
 s2 = {9,10,1}
 print(s1)
+print()
 
 s1.add(5)
 s1.remove(4)

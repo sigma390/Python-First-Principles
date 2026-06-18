@@ -11,7 +11,7 @@ func()
 
 
 #function inside a function and calls  , also Optional params
-def sum (x , y , z , q = None):
+def sum (x , y , z , q = None): # can keep an extra arguement
     s = x + y
     def multi(s , z):
         return s*z;
